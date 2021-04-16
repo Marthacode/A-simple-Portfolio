@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.bg{
+    background-image: url("/Resources/Images/me1.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+

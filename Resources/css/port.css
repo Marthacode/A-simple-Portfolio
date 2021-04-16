@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #000011;
+}
+a :hover{
+    text-decoration: none;
+
+}
+.pix img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 10px auto 20px;
+    display: block;
+}
+.pix{
+    margin-top: 150px;
+    text-align: center;
+}
+hr{
+    border-top: 2px solid #ffffff;
+    width: 50px;
+}
+h4, p{
+    color: #ffffff;
+}
+
+

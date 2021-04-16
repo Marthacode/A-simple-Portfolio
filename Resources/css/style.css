@@ -1,0 +1,47 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.first-section h2{
+    margin-left: 796px;
+}
+.first-section h3{
+    margin-left: 869px;
+    color: #ffffff;
+}
+.first{
+    background-color: #f1f1f1;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+
+}
+.first h1{
+    color: #6bc048;  
+}
+.second img{
+    margin-left: 50px;
+    width: 50px;
+}
+.second a{
+    margin: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.first-section{
+    background-image: url(/Resources/Images/me1.jpg);
+    background-position: right bottom, left top;
+    background-size: 100px 80px;
+    background-repeat: no-repeat;
+}
